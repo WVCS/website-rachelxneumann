@@ -19,6 +19,7 @@ div.abs {
   border: 3px solid black;
   text-align: center;
  }
+
 #artifact:hover {
   opacity: .6;
   border: 3px solid white;
