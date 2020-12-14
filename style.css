@@ -24,7 +24,16 @@ div.abs {
   border: 3px solid white;
   }
   
-
+div.stuck {
+  position: sticky;
+  top: 0;
+  background-color: salmon;
+  border: 5px solid gold;
+  text-align: center;
+  z-index: -5;
+  max-width: 50%;
+  left: 25%; 
+}
   
 
 /* --------------------------------------------------- Nav Bar Style ----------------------------------------------------*/
